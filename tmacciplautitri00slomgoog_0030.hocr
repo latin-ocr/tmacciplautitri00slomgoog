@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplautitri00slomgoog_0030.png"; bbox 0 0 2400 3802; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 1206 727 1341">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 1206 727 1341">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 1206 727 1341; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 303 1259 344 1339; x_wconf 83' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_2' title='bbox 378 1258 517 1341; x_wconf 71' lang='lat' dir='ltr'>MAccl</span> <span class='ocrx_word' id='word_1_3' title='bbox 561 1206 727 1339; x_wconf 65' lang='lat' dir='ltr'>mvn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 1531 838 1626">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 1531 838 1626">
+     <span class='ocr_line' id='line_1_2' title="bbox 200 1531 838 1626; baseline 0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 200 1531 838 1626; x_wconf 85' lang='lat' dir='ltr'><strong>TRINVMMVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 99 2056 939 2271">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 99 2056 939 2271">
+     <span class='ocr_line' id='line_1_3' title="bbox 99 2056 939 2149; baseline 0.006 -32"><span class='ocrx_word' id='word_1_5' title='bbox 99 2056 287 2117; x_wconf 83' lang='lat' dir='ltr'>GRAECA</span> <span class='ocrx_word' id='word_1_6' title='bbox 310 2057 620 2149; x_wconf 15' lang='lat' dir='ltr'>‘THENSAVRVS</span> <span class='ocrx_word' id='word_1_7' title='bbox 649 2059 939 2122; x_wconf 87' lang='lat' dir='ltr'>PHILEMONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 200 2186 839 2271; baseline 0.008 -25"><span class='ocrx_word' id='word_1_8' title='bbox 200 2186 324 2256; x_wconf 81' lang='lat' dir='ltr'>(ACTA</span> <span class='ocrx_word' id='word_1_9' title='bbox 352 2189 474 2248; x_wconf 90' lang='lat' dir='ltr'>LVDIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 502 2188 839 2271; x_wconf 84' lang='lat' dir='ltr'>MEGALENSIBVS).</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1204 3802">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1204 3802">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1204 3802; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1204 3802; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
